@@ -1,0 +1,55 @@
+body {
+  font-family: Space Mono;
+  background-color: #982124;
+  color: #dcb335;
+  padding: 20px;
+  text-align: center;
+}
+
+h1, h2, h3 {
+  font-family: Comic Sans MS;
+  color: #982124;
+}
+
+a {
+  text-decoration: none;
+  color: #49b8d9;
+  font-size: 18px;
+  font-weight: bold;
+}
+
+a:hover {
+  color: #982124;
+  transition: 0.3s ease;
+}
+
+#profile-pic {
+  width: 200px;
+  height: 200px;
+  border-radius: 50%;
+}
+
+.card {
+  background-color: #232020;
+  padding: 20px;
+  width: 600px;
+  margin: 25px auto;
+  border-radius: 10px;
+  border: 2px solid #49b8d9;
+}
+
+#p1 {
+  text-align: justify;
+}
+
+#p2 {
+  text-align: justify;
+}
+
+#p3, #p4, #p5 {
+  text-align: center;
+}
+
+.list {
+  text-align: left;
+}
